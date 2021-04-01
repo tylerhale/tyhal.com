@@ -7,7 +7,7 @@
   ],
   "dependencies": {
     "bootstrap": "4.5.3",
-    "bootswatch": "4.5.3",
+    "bootswatch": "4.6.0",
     "highcharts": "8.2.2",
     "highcharts-react-official": "3.0.0",
     "npm": "6.14.8",
