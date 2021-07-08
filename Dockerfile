@@ -1,4 +1,4 @@
-FROM node:15.14.0 as buildlayer
+FROM node:16.4.2 as buildlayer
 
 # Only grab package.json and npm install
 # So that normal code changes don't trigger a redownload of node_modules
